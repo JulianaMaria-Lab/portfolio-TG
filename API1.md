@@ -1,10 +1,24 @@
 `Em 2021-1`
-
+<span id="topo">
 <h1 align="center"><b>Website Institucional</h1></b>
 
 <p align="center"> 
    <img src="https://www.imagemhost.com.br/images/2023/04/06/rocket.png" width="150" height="150">
 </p>
+
+<p align="center">
+  <a href ="#sobre-o-projeto"> Sobre o Projeto </a>  • 
+  <a href ="#requisitos">Requisitos </a>  • 
+  <a href ="#funcionalidades">Funcionalidades </a>  • 
+  <a href ="#repositorio"> Repositório do projeto </a>  • 
+  <a href ="#tecnologias-utilizadas"> Tecnologias </a>  •
+  <a href ="#contribuições"> Minhas Contribuições </a>  •
+  <a href ="#hard-skills"> Hard Skills </a> •
+  <a href ="#soft-skills"> Soft Skills </a>
+ 
+</p>
+
+<span id="sobre-o-projeto">
 
 ## Sobre o Projeto
 
@@ -12,7 +26,7 @@ A proposta do projeto foi a criação de um Webiste institucional para o CECOI V
 
 O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, onde o Prof. Antonio Egydio fez o papel de cliente.
 
-<a name="requisitos"></a>
+<span id="requisitos">
 
 ## ✔️ Requisitos
 
@@ -21,6 +35,10 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
 <li>Cadastro de projetos</li>
 <li>Cadastro de voluntários (Voluntário específico e/ou Voluntário Apoio)</li>
 </ul>
+  
+<img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
+   
+<span id="funcionalidades">
 
 ## Funcionalidades
 
@@ -79,9 +97,15 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
 
 > Painel que contém Gerenciamentos de usuários administradores, Edição do site e Visualização dos dados dos cadastros recebidos : Voluntários de Apio e Específicos e Projetos.
 
+<img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
+
+<span id="repositorio">
 
 ### [📕 Repositório do Projeto ](https://github.com/JulianaMaria-Lab/API-Fatec-Site-Institucional)
 ---
+
+<span id="tecnologias-utilizadas">
+
 ## Tecnologias Utilizadas
 
 ##### Reuniões
@@ -109,6 +133,10 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
   - Canva
   - Google Sites
 
+<img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
+
+<span id="contribuições">
+
 ## Contribuições Pessoais
 Minhas contribuições foram na parte do Back-end (PHP e com o MySQL) e no Front-end(HTML,CSS), onde eu desenvolvia as páginas que me foram designidas, e também era responsável pela criação da tabela no banco de dados e  pela conexão.
 
@@ -116,6 +144,9 @@ Minhas contribuições foram na parte do Back-end (PHP e com o MySQL) e no Front
 - Página de contato - Implementação do PHPMailer para enviar e-mails contendo as informações preenchidas pelos usuários no formulário de contato.
 - Painel de administrador, contendo Gerenciamentos de usuários administradores, Edição do site e Visualização dos dados dos cadastros recebidos : Voluntários de Apio e Específicos, Projetos.
 
+<img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
+
+<span id="#hard-skills">
 
 ## Hard Skills
 
@@ -123,6 +154,10 @@ Minhas contribuições foram na parte do Back-end (PHP e com o MySQL) e no Front
 * CSS3 → sei fazer com auxílio de consultas;
 * PHP → sei fazer com auxílio de consultas;
 * MySQL → sei fazer com autonomia;
+
+<img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
+
+<span id="soft-skills">
 
 ## Soft Skills
 
@@ -140,3 +175,5 @@ Minhas contribuições foram na parte do Back-end (PHP e com o MySQL) e no Front
 
 * Comunicação
 <p>Devido ao fato das aulas serem remotas, a comunicação era um desafio. Ferramentas como Teams e WhatsApp eram utilizadas e por isso precisava ser bem objetiva na comunicação.</p>
+
+<img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
