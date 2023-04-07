@@ -1,15 +1,13 @@
-# Juliana Maria Ribeiro Ramos
+<h1 align="center"> Juliana Maria Ribeiro Ramos </h1>
+
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/79669245/230516537-0f8e969e-7a1a-47f1-9417-adc1c08eab83.png" width=160>
+</p>
 
 ## Introdução
 
-[<img align="right" src="https://avatars.githubusercontent.com/u/79669245?v=4" width=160>](https://github.com/JulianaMaria-Lab) 
-
-
 Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof.Jessen Vidal, e atualmente estou cursando o 5º semestre. <p>
 Este repositório possui o intuito de apresentar os APIs (Aprendizagem por Projetos Integrados) que foram realizados durante a graduação.
-
-
-<br>
 
 ## Projetos
 <div id="projetos" text-align="center">
