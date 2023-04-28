@@ -3,7 +3,8 @@
 <h1 align="center"><b>Website de gerenciamento do quadro de presença de terceiros</h1></b>
 
 <p align="center"> 
-   <img src="https://user-images.githubusercontent.com/79669245/234151228-d19d10ad-9115-4bb9-b286-8f6e634c931a.png" width="150" height="150">
+   <img src="https://user-images.githubusercontent.com/79669245/235186853-032cb19a-ab45-4cc7-bec4-e41b3cef354b.png" width="150" height="150">
+    
 </p>
 
 <p align="center">
