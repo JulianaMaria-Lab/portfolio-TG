@@ -35,7 +35,7 @@ O parceiro neste projeto foi a JetSoft, uma empresa de software que oferece serv
 
 <ul>
 <li>Cadastro de usuários</li>
-<li> Cadastro de contratos</li>
+<li>Cadastro de contratos</li>
 <li>Cadastro de clientes</li>
 <li>Cadastro de colaboradores</li>
 <li>Cadastro de postos de trabalho</li>
@@ -51,20 +51,49 @@ O parceiro neste projeto foi a JetSoft, uma empresa de software que oferece serv
 
 ## Funcionalidades
 
-<!--
-#### Nome da Página
+<details>
+  <summary>
+    <h4 align="left">Cadastro de Usuários e Login</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79669245/236921296-1f2a3098-941c-4d33-b6ee-08c3fa7c4399.gif" width="600px">
+</details>
 
-![imagem/gif]()
-
-> Descrição
-
-#### Nome da Página
-
-![imagem/gif]()
-
-> Descrição
-
--->
+<details>
+  <summary>
+    <h4 align="left">Cadastro de Colaboradores</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79669245/236918810-7233eab6-9e7b-46e6-bd46-968be5092f6f.gif" width="600px">
+</details>
+<details>
+  <summary>
+    <h4 align="left">Controle de Presença</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79669245/236921126-40f09333-779e-4ccf-95e5-503aa5ef68a2.gif" width="600px">
+</details>
+<details>
+  <summary>
+    <h4 align="left">Cadastro de Clientes</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79669245/236920724-62919512-dde0-4a14-815b-7a1169716548.gif" width="600px">
+</details>
+<details>
+  <summary>
+    <h4 align="left">Cadastro de Contratos</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79669245/236921045-dd37af99-8ab1-4863-a50c-ec5983de4215.gif" width="600px">
+</details>
+<details>
+  <summary>
+    <h4 align="left">Cadastro de Postos de Trabalho</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79669245/236921081-17fe100e-ce2c-4422-80fb-5833d25a4d3b.gif" width="600px">
+</details>
+<details>
+  <summary>
+    <h4 align="left">Quadros - Clientes, colaboradores, postos de trabalho e eventos</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79669245/236921679-f0b95a3e-3900-40cc-a226-9e8fd768abaf.gif" width="600px">
+</details>
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
@@ -79,30 +108,29 @@ O parceiro neste projeto foi a JetSoft, uma empresa de software que oferece serv
 
 ##### Reuniões
    
-  - WhatsApp
-  - Microsoft Teams
+  - WhatsApp - Comunicação rápida com os integrantes, avisos;
+  - Microsoft Teams - Realização de reuniões com o cliente, acesso à documentação dos requisitos e compartilhamento de arquivos do grupo.
  
 ##### Banco de Dados
  
-   - MySQL
+   - MySQL - Armazenamento e manipulação de dados.
 
 ##### Back-end  
   
-  - Python
-  - Flask
+  - Python Scripts para comunicação com o servidor;
+  - Flask - Microframework usado para conexão de banco de dados e utilização de templates.
 
 ##### Front-end 
  
-  - HTML5
-  - CSS3
-  - JavaScript
+  - HTML5 - Estrututa e definição do layout do site;
+  - CSS3 - Estilização do site.
+  - JavaScript - Criação das interações do site (como o menu, que possui um evento de clique para alternar a exibição do seu conteúdo).
 
 ##### Outros
  
-  - Git
-  - Github
-  - Visual Studio Code
-  - Figma
+  - Github - Repositório do projeto para controle de versão;
+  - Visual Studio Code - Ambiente de Desenvolvimento Integrado do grupo;
+  - Figma - Criação dos Mockups.
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
@@ -114,7 +142,7 @@ Neste projeto atuei como Product Owner, sendo responsável por entender os requi
 
 No período de Kick-Off , após definir o Backlog do Produto e obter a validação do cliente, elaborei os mockups, de forma objetiva e descritiva para ir de encontro com o que o cliente queria.
 
-Além disso, auxiliei na funcionalidade de geração de relatórios PDF dos contratos e dos controle de presença, para ajudar o time de desenvolvimento e conhecer as tecnologias usadas, aleém de ajudar na geração de um manual para o sistema.
+Além disso, auxiliei na funcionalidade de geração de relatórios PDF dos contratos e dos controle de presença, para ajudar o time de desenvolvimento e conhecer as tecnologias usadas, além de ajudar na geração de um manual para o sistema.
 
 <details>
   <summary>Backlog</summary>
@@ -149,7 +177,7 @@ Além disso, auxiliei na funcionalidade de geração de relatórios PDF dos cont
 <details>
    <summary> Manual do Sistema</summary>
 
-### [📔 Manual do Sistema - PDF ](https://github.com/JulianaMaria-Lab/API-Fatec-Controle-de-Ponto/blob/main/readme/sprint-4/Manual.pdf)
+### [📔 Manual do Sistema - PDF ](https://github.com/JulianaMaria-Lab/portfolio-TG/blob/main/API2/Manual.pdf)
 
    </details>
 
@@ -171,17 +199,21 @@ Além disso, auxiliei na funcionalidade de geração de relatórios PDF dos cont
 <span id="soft-skills">
 
 ## Soft Skills
-<!--
 
-* Título
-<p>Descrição</p>
+* Trabalho em equipe
+<p> Como Product Owner, precisei levantar os requisitos para o projeto, então estive bem próxima dos desenvolvedores para garantir que o trabalho estivesse sempre alinhado com as necessidades do cliente e as prioridades definidas.</p>
 
-* Título
-<p>Descrição</p>
+* Planejamento
+<p>Desde o kick-off até o final do projeto, precisei me dedicar bastante ao planejamento, uma vez que realizei a definição do Backlog, sua priorização e gerenciava o planejamento de cada sprint.</p>
 
-* Título
-<p>Descrição</p>
+* Organização
+<p>Entreguei tudo de forma bem organizada, tanto para a equipe, quanto para o cliente. Como exemplo, ressalto a apresentação dos Mockups para o cliente, onde apresentei as telas juntamente com uma descrição completa de sua finalidade e os dados presentes em cada uma delas, para ser mais clara possível.</p>
 
--->
+* Proatividade
+<p>No início do projeto, demonstrei interesse em assumir a posição de Product Owner e atuei de forma proativa para contribuir com o sucesso da equipe. Busquei ampliar meus conhecimentos em programação e estudei Python e Flask para auxiliar na funcionalidade de geração de relatórios em PDF. Além disso, me propus a elaborar o Manual do Sistema para facilitar a compreensão dos usuários. Estive sempre alinhada com o desenvolvimento do projeto, colaborando de forma efetiva e comprometida com as metas estabelecidas.
+
+* Comunicação
+<p>Precisei me comunicar muito com o cliente e a equipe, por isso precisava ser bem objetiva na comunicação. Sempre utilizei imagens para facilitar a demonstração de certos elementos visuais; sumariava as perguntas direcionadas ao cliente para facilitar suas repostas e buscava descrever bem o Backlog.</p>
+
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
