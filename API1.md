@@ -110,28 +110,28 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
 
 ##### Reuniões
    
-  - WhatsApp
-  - Microsoft Teams
+  - WhatsApp - Comunicação rápida com os integrantes, avisos;
+  - Microsoft Teams - Realização de reuniões com o cliente, acesso à documentação dos requisitos e compartilhamento de arquivos do grupo.
  
 ##### Banco de Dados
  
-   - MySQL
+   - MySQL - Armazenamento e manipulação de dados.
 
 ##### Back-end  
   
-  - PHP
+  - PHP - Scripts para comunicação com o servidor.
 
 ##### Front-end 
  
-  - HTML5
-  - CSS3
+  - HTML5 - Estrututa e definição do layout do site;
+  - CSS3 - Estilização do site.
 
 ##### Outros
  
-  - Github
-  - Visual Studio Code
-  - Canva
-  - Google Sites
+  - Github - Repositório do projeto para controle de versão;
+  - Visual Studio Code - Ambiente de Desenvolvimento Integrado do grupo;
+  - Canva - Edição de componentes da documentação, imsgens e apresentações;
+  - Google Sites - Criação do protótipo navegável;
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
