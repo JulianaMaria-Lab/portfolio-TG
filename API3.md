@@ -206,33 +206,23 @@ Código - Controller do Cadastro de Concessionária
 Testes manuais do back-end
 </summary>
 
-<details>
-  <summary>
-    <h4 align="left">Teste de requisições: Unidade</h4>
-  </summary>
+#### Teste de requisições: Unidade
+
   <img src="https://user-images.githubusercontent.com/79669245/236964462-bd19afa5-8133-46f9-a6c9-b0a66b7c7a08.PNG" width="600px">
-</details>
 
-<details>
-  <summary>
-    <h4 align="left">Teste de requisições: Concessionária</h4>
-  </summary>
+
+#### Teste de requisições: Concessionária
+ 
   <img src="https://user-images.githubusercontent.com/79669245/236964483-028b02a6-bf08-41bb-a786-e9f5e4875e8e.PNG" width="600px">
-</details>
 
-<details>
-  <summary>
-    <h4 align="left">Teste de requisições: Contrato e Conta de Água</h4>
-  </summary>
+
+#### Teste de requisições: Contrato e Conta de Água
+
   <img src="https://user-images.githubusercontent.com/79669245/236964512-5bff7b4e-ffc5-4359-8cc7-53e8ab4662f8.PNG" width="600px">
-</details>
 
-<details>
-  <summary>
-    <h4 align="left">Teste de requisições: Contrato e Conta de Energia</h4>
-  </summary>
+#### Teste de requisições: Contrato e Conta de Energia
+
   <img src="https://user-images.githubusercontent.com/79669245/236964547-13a221a1-795b-4a9a-89ef-5212917cd2d5.PNG" width="600px">
-</details>
 
 
 </details>
