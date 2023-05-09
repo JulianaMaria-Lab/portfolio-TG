@@ -16,6 +16,7 @@ Este repositório possui o intuito de apresentar os APIs (Aprendizagem por Proje
 |:---:|:---:|:---:|:---:|
 | 2021 - 1 | Website institucional para uma ONG de Convivência Infantil | Fatec | [📑 API 1](https://github.com/JulianaMaria-Lab/portfolio-TG/blob/main/API1.md) |
 | 2021 - 2 | Website de gerenciamento do quadro de presença de terceiros | JetSoft | [📑 API 2](https://github.com/JulianaMaria-Lab/portfolio-TG/blob/main/API2.md) |
+| 2022 - 1 | Website de gerenciamento de contas de água e energia | Tecsus | [📑 API 3](https://github.com/JulianaMaria-Lab/portfolio-TG/blob/main/API3.md) |
 
 
 ## Principais Conhecimentos
