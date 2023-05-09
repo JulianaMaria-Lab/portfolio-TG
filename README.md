@@ -6,8 +6,15 @@
 
 ## Introdução
 
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof.Jessen Vidal, e atualmente estou cursando o 5º semestre. <p>
-Este repositório possui o intuito de apresentar os APIs (Aprendizagem por Projetos Integrados) que foram realizados durante a graduação.
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, atualmente cursando o 5º semestre.
+
+Durante minha atuação na área industrial (2017), percebi que a tecnologia é um fator determinante para o sucesso das empresas. Isso despertou em mim uma grande curiosidade sobre as diversas possibilidades e impactos que a tecnologia pode ter em diferentes setores do mercado.
+
+Como eu já era formada em Tecnologia em Gestão da Qualidade, pude entender a importância da aplicação de técnicas e métodos para garantir a excelência dos processos em diferentes áreas de negócio. Foi assim que decidi unir meu conhecimento em gestão da qualidade à área de tecnologia, ingressando no curso de Análise e Desenvolvimento de Sistemas.
+
+Este repositório apresenta os APIs (Aprendizagem por Projetos Integrados) realizados durante a graduação.
+
+
 
 ## Projetos
 <div id="projetos" text-align="center">
