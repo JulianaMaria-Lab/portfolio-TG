@@ -42,60 +42,91 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
 
 ## Funcionalidades
 
-#### Home
+<details>
+  <summary>
+    <h4 align="left">Home</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79751826/115155955-85f62780-a058-11eb-8462-c5403f1a46d1.gif" width="600px">
+  > GIF animado demonstrando a Página "home", a página com formulário para cadastro de participantes, seu preenchimento e o respectivo banco de dados:
+</details>
 
-![gif sprint1](https://user-images.githubusercontent.com/79751826/115155955-85f62780-a058-11eb-8462-c5403f1a46d1.gif)
+<details>
+  <summary>
+    <h4 align="left">Como Ajudar</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79751826/115159841-80eea380-a06b-11eb-9f24-87a458785a27.gif" width="600px">
+  >Página "Como Ajudar", que centraliza os acessos aos cadastros de voluntários de apoio, de voluntários específicos e projetos, à página de informações para doações e à página de contato:
+</details>
 
-> GIF animado demonstrando a Página "home", a página com formulário para cadastro de participantes, seu preenchimento e o respectivo banco de dados:
+<details>
+  <summary>
+    <h4 align="left">Página de cadastro de voluntários de apoio</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79751826/115160216-703f2d00-a06d-11eb-9d0b-40565dee914f.gif" width="600px">
+</details>
 
-#### Como Ajudar
+<details>
+  <summary>
+    <h4 align="left">Página de cadastro de voluntários específicos e/ou sugestões de projetos:</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79751826/115160375-33c00100-a06e-11eb-9ced-3d51cefbd6a4.gif" width="600px">
+</details>
 
-![comoajudar](https://user-images.githubusercontent.com/79751826/115159841-80eea380-a06b-11eb-9f24-87a458785a27.gif)
+<details>
+  <summary>
+    <h4 align="left">Página "Saiba Mais" com informações sobre a ONG:</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79751826/118418540-2c9d0a80-b68f-11eb-8baa-8d8195f05271.gif" width="600px">
+</details>
 
->Página "Como Ajudar", que centraliza os acessos aos cadastros de voluntários de apoio, de voluntários específicos e projetos, à página de informações para doações e à página de contato:
+<details>
+  <summary>
+    <h4 align="left">Sistema de cadastro de usuário e Login no site:</h4>
+  </summary>
+  <img src="https://user-images.githubusercontent.com/79751826/118418578-46d6e880-b68f-11eb-9e5e-71a6df3e8745.gif" width="600px">
+</details>
 
-#### Página de cadastro de voluntários de apoio
+<!-->
+<details>
+  <summary>
+    <h4 align="left">Página "Projetos"</h4>
+  </summary>
+  <img src="https://www.imagemhost.com.br/images/2021/06/07/gifproj.gif" width="600px">
 
-![cadastroapoio](https://user-images.githubusercontent.com/79751826/115160216-703f2d00-a06d-11eb-9d0b-40565dee914f.gif)
+  > Página com informações sobre projetos realizados na ONG, com um botão que direciona o usuário a página de cadastro de voluntários específicos e projetos. 
+</details>
 
-#### Página de cadastro de voluntários específicos e/ou sugestões de projetos:
+<details>
+  <summary>
+    <h4 align="left">Página "Doações"</h4>
+  </summary>
+  <img src="ttps://www.imagemhost.com.br/images/2021/06/07/gifdoa.gif" width="600px">
+  > Página com informações para realização de doações à ONG.
+</details>
+-->
 
-![cadastroespec](https://user-images.githubusercontent.com/79751826/115160375-33c00100-a06e-11eb-9ced-3d51cefbd6a4.gif)
+<details>
+  <summary>
+    <h4 align="left">Página com informações de contato da ONG, incluindo formulário para envio de e-mail.</h4>
+  </summary>
+  <img src="https://uploaddeimagens.com.br/images/003/276/723/full/gifcontato.gif" width="600px">
+</details>
 
+<details>
+  <summary>
+    <h4 align="left">Página de Login do Administrador</h4>
+  </summary>
+  <img src="https://www.imagemhost.com.br/images/2023/04/06/login_admin.png" width="600px">
+</details>
 
-#### Página "Saiba Mais" com informações sobre a ONG:
+<details>
+  <summary>
+    <h4 align="left">Painel do Administrador</h4>
+  </summary>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQzYTIyNDVmNGMzM2IwNmE2NDliYzdlMmMwY2RlMTRmOTVkZDNhZCZjdD1n/WVqCyaEOcsUJv1B6IU/giphy.gif" width="600px">
+  > Painel que contém Gerenciamentos de usuários administradores, Edição do site e Visualização dos dados dos cadastros recebidos : Voluntários de Apio e Específicos e Projetos.
+</details>
 
-![saibamaisgif](https://user-images.githubusercontent.com/79751826/118418540-2c9d0a80-b68f-11eb-8baa-8d8195f05271.gif)
-
-#### Sistema de cadastro de usuário e Login no site:
-
-![logingif](https://user-images.githubusercontent.com/79751826/118418578-46d6e880-b68f-11eb-9e5e-71a6df3e8745.gif)
-
-#### Página "Projetos"
-
-<img src="https://www.imagemhost.com.br/images/2021/06/07/gifproj.gif">
-
-> Página com informações sobre projetos realizados na ONG, com um botão que direciona o usuário a página de cadastro de voluntários específicos e projetos. 
-
-#### Página "Doações"
-
-<img src="https://www.imagemhost.com.br/images/2021/06/07/gifdoa.gif">
-
-> Página com informações para realização de doações à ONG.
-
-#### Página com informações de contato da ONG, incluindo formulário para envio de e-mail.
-
-<img src="https://uploaddeimagens.com.br/images/003/276/723/full/gifcontato.gif" width="600px">
-
-#### Página de Login do Administrador
-
-<img src="https://www.imagemhost.com.br/images/2023/04/06/login_admin.png" width="600px">
-
-#### Painel do Administrador
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQzYTIyNDVmNGMzM2IwNmE2NDliYzdlMmMwY2RlMTRmOTVkZDNhZCZjdD1n/WVqCyaEOcsUJv1B6IU/giphy.gif" width="600px">
-
-> Painel que contém Gerenciamentos de usuários administradores, Edição do site e Visualização dos dados dos cadastros recebidos : Voluntários de Apio e Específicos e Projetos.
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
