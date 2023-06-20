@@ -47,6 +47,7 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
     <h4 align="left">Home</h4>
   </summary>
   <img src="https://user-images.githubusercontent.com/79751826/115155955-85f62780-a058-11eb-8462-c5403f1a46d1.gif" width="600px">
+  
   > GIF animado demonstrando a Página "home", a página com formulário para cadastro de participantes, seu preenchimento e o respectivo banco de dados:
 </details>
 
@@ -55,6 +56,7 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
     <h4 align="left">Como Ajudar</h4>
   </summary>
   <img src="https://user-images.githubusercontent.com/79751826/115159841-80eea380-a06b-11eb-9f24-87a458785a27.gif" width="600px">
+
   >Página "Como Ajudar", que centraliza os acessos aos cadastros de voluntários de apoio, de voluntários específicos e projetos, à página de informações para doações e à página de contato:
 </details>
 
@@ -86,7 +88,7 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
   <img src="https://user-images.githubusercontent.com/79751826/118418578-46d6e880-b68f-11eb-9e5e-71a6df3e8745.gif" width="600px">
 </details>
 
-<!-->
+<!--
 <details>
   <summary>
     <h4 align="left">Página "Projetos"</h4>
@@ -124,6 +126,7 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
     <h4 align="left">Painel do Administrador</h4>
   </summary>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQzYTIyNDVmNGMzM2IwNmE2NDliYzdlMmMwY2RlMTRmOTVkZDNhZCZjdD1n/WVqCyaEOcsUJv1B6IU/giphy.gif" width="600px">
+  
   > Painel que contém Gerenciamentos de usuários administradores, Edição do site e Visualização dos dados dos cadastros recebidos : Voluntários de Apio e Específicos e Projetos.
 </details>
 
