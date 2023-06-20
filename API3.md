@@ -124,7 +124,7 @@ O parceiro neste projeto foi a Tecsus, uma startup que desenvolve dispositivos, 
 
 <details>
   <summary>
-    <h4 align="left">Relatórias e gráficos de contas de água e energia</h4>
+    <h4 align="left">Relatórios e gráficos de contas de água e energia</h4>
   </summary>
   <img src="https://github.com/Grupo1API/TecSus/blob/main/readme/sprint_3/midias/dod/gifs_funcionalidades/relatorios_e_graficos.gif" width="600px">
 </details>
