@@ -6,7 +6,7 @@
 
 ## Introdução
 
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, atualmente cursando o 5º semestre.
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, atualmente cursando o 6º semestre.
 
 Durante minha atuação na área industrial (2017), percebi que a tecnologia é um fator determinante para o sucesso das empresas. Isso despertou em mim uma grande curiosidade sobre as diversas possibilidades e impactos que a tecnologia pode ter em diferentes setores do mercado.
 
@@ -26,6 +26,7 @@ Este repositório apresenta os APIs (Aprendizagem por Projetos Integrados) reali
 | 2022 - 1 | Website de gerenciamento de contas de água e energia | Tecsus | [📑 API 3](https://github.com/JulianaMaria-Lab/portfolio-TG/blob/main/API3.md) |
 | 2022 - 2 | Website para controle de Hora Extra e Sobreaviso | 2RP Net | [📑 API 4](https://github.com/JulianaMaria-Lab/portfolio-TG/blob/main/API4.md) |
 | 2023 - 1 | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC) | IACIT | [📑 API 5](https://github.com/JulianaMaria-Lab/portfolio-TG/blob/main/API5.md) |
+| 2023 - 2 | Plataforma de Recrutamento e Seleção de Candidatos | Pro4tech | [📑 API 6](https://github.com/JulianaMaria-Lab/portfolio-TG/blob/main/API6.md) |
 
 
 ## Principais Conhecimentos
@@ -35,6 +36,8 @@ Este repositório apresenta os APIs (Aprendizagem por Projetos Integrados) reali
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |     | ✔️  |     |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)| ✔️  |     |     |
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ✔️  |     |     |
+| ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) | ✔️  |     |     |
+| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ✔️  |     |     |
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ✔️  |     |     |
 | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ✔️  |     |     |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✔️  |     |     |
