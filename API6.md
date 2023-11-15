@@ -52,37 +52,22 @@ Neste projeto, a Pro4tech foi nosso parceiro, uma empresa especializada em Digit
   <summary>
     <h4 align="left">Cadastro de Vagas</h4>
   </summary>
-  <img src="" width="200px">
+  <img src="https://github.com/JulianaMaria-Lab/portfolio-TG/assets/79669245/03a147a2-ec4d-4151-8dec-5028dfa3ecf3" width="580px">
 </details>
 
 <details>
   <summary>
-    <h4 align="left">Gerar e Aprimorar CHA</h4>
+    <h4 align="left">Gerar e Aprimorar CHA/Aprimorar Descrição</h4>
   </summary>
-  <img src="" width="200px">
+  <img src="https://github.com/JulianaMaria-Lab/portfolio-TG/assets/79669245/6e06d5fc-98b8-42d3-b1f4-68550b5cf0d0">
 </details>
 
 <details>
   <summary>
-    <h4 align="left">Aprimorar Descrição</h4>
+    <h4 align="left">Web Scraping/Ranking de Candidatos</h4>
   </summary>
-  <img src="" width="200px">
+  <img src="https://github.com/JulianaMaria-Lab/portfolio-TG/assets/79669245/6ed8cafb-60a3-46ae-8328-48fff6bf13eb" width="580px">
 </details>
-
-<details>
-  <summary>
-    <h4 align="left">Web Scraping</h4>
-  </summary>
-  <img src="" width="200px">
-</details>
-
-<details>
-  <summary>
-    <h4 align="left">Ranking de Candidatos</h4>
-  </summary>
-  <img src="" width="200px">
-</details>
-
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
@@ -107,8 +92,8 @@ Neste projeto, a Pro4tech foi nosso parceiro, uma empresa especializada em Digit
 
 ##### Back-end  
   
-  - Java - Nossa linguagem de programação para contrução do Back-End;
-  - Spring - Framework de Java para manipulação do banco;
+ - Java - Nossa linguagem de programação para contrução do Back-End;
+ - Spring - Framework de Java para manipulação do banco;
  - Python - Linguagem de programação para consumir a API do GPT-4 - OpenAI e para contrução da inteligência artificial;
 
 ##### Front-end 
@@ -139,9 +124,13 @@ Neste projeto atuei como Desenvolvedora do front-end, utilizando uma biblioteca 
 
 ## Hard Skills
 
+* HTML5 → sei fazer com autonomia;
+* CSS3 → sei fazer com auxílio de consultas;
 * Vue.js → sei fazer com auxílio de consultas;
-
-* MariaDB → sei fazer com auxílio de consultas;
+* MariaDB → sei fazer com autonomia;
+* Java → sei fazer com auxílio de consultas;
+* Spring Boot → sei fazer com auxílio de consultas;
+* Python → sei fazer com auxílio de consultas;
 
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
@@ -150,5 +139,13 @@ Neste projeto atuei como Desenvolvedora do front-end, utilizando uma biblioteca 
 
 ## Soft Skills
 
+* Trabalho em equipe
+<p>O projeto envolve diferentes aspectos, desde o desenvolvimento do front-end até o uso de tecnologias como Java, Spring, Python, Vue.js e Inteligência Artificial. A capacidade de trabalhar em equipe e colaborar efetivamente é crucial para o sucesso do projeto.</p>
+
+* Adaptabilidade: 
+<p>O uso de tecnologias diversas, como Java, Spring, Python e Vue.js,  traz a necessidade de ser adaptável e de se ajustar a diferentes tecnologias e ambientes de desenvolvimento.</p>
+
+* Autonomia
+<p>A descrição das contribuições pessoais, como o desenvolvimento do front-end, destaca a necessidade de autonomia e iniciativa para desenvolver diferentes partes da aplicação, principalmente por ser com Vue.js, um framework que não conhecia.</p>
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
