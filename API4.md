@@ -161,6 +161,10 @@ O parceiro neste projeto foi a 2RP Net, uma empresa de tecnologia focada em solu
   <img src="https://github.com/Grupo1API/2RP/blob/main/readme/sprint4/DoD/dashboard_home.gif" width="600px">
 </details>
 
+<span id="repositorio">
+
+### [📕 Repositório do Projeto ](https://github.com/JulianaMaria-Lab/API-Fatec-Controle-Hora-Extra)
+---
 
 ## Tecnologias Utilizadas
 
